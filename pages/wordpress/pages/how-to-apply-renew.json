@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "created_date": "2021-06-19T15:07:40",
+    "updated_date": "2021-06-30T20:26:13",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
+    "api_version": "v2",
+    "api_url": "https://cannabis.ca.gov/wp-json/wp/v2/",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://cannabis.ca.gov",
+      "deployment_target": "https://github.com/cagov/cannabis.ca.gov/tree/main"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 7783,
+    "date": "2021-06-19T15:07:40",
+    "date_gmt": "2021-06-19T15:07:40",
+    "guid": "https://dev-cagov-dcc.pantheonsite.io/applicants/applicants/how-to-apply-renew/",
+    "modified": "2021-06-30T13:26:13",
+    "modified_gmt": "2021-06-30T20:26:13",
+    "slug": "how-to-apply-renew",
+    "status": "publish",
+    "type": "page",
+    "link": "https://cannabis.ca.gov/applicants/how-to-apply-renew/",
+    "title": "How to apply for or renew a license",
+    "excerpt": "<p>Learn the steps needed to apply for or renew a cannabis license.</p>\n",
+    "author": "Department of Cannabis Control",
+    "featured_media": 0,
+    "parent": 756,
+    "menu_order": 2,
+    "comment_status": "open",
+    "ping_status": "open",
+    "template": "/www/wp-content/plugins/ca-design-system-gutenberg-blocks/includes/templates/template-page.php",
+    "meta": {
+      "_et_pb_use_builder": "",
+      "_et_pb_old_content": "",
+      "_et_gb_content_width": ""
+    },
+    "wordpress_url": "https://cannabis.ca.gov/applicants/how-to-apply-renew/"
+  }
+}
